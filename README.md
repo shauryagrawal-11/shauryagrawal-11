@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently doing study<br>My branch is CSE-AIML, 1st year<br><br>
+I’m an engineering student<br>My branch is CSE (Artificial Intelligence & Machine Learning).<br><br>
 
 
 ## 🌐 Socials:
