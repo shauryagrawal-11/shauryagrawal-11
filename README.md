@@ -1,5 +1,7 @@
 # 💫 About Me:
 I’m an engineering student<br>My branch is CSE (Artificial Intelligence & Machine Learning).<br><br>
+Engineering student | CSE (AI & ML) | Learning and improving technical skills
+
 
 
 ## 🌐 Socials:
