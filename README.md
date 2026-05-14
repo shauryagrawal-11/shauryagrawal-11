@@ -42,8 +42,9 @@ Engineering student | CSE (AI & ML) | Passionate about Open Source, AI & Problem
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shauryagrawal-11&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 📈 Contribution Graph
+
+[![Shaury's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shauryagrawal-11&theme=tokyo-night)](https://github.com/shauryagrawal-11)
 
 ---
 [![](https://komarev.com/ghpvc/?username=shauryagrawal-11&label=Profile%20Views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
