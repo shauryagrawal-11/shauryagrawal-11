@@ -22,7 +22,7 @@ Engineering student | CSE (AI & ML) | Passionate about Open Source, AI & Problem
 - Codeforces
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 # 🚀 Open Source
 
@@ -38,9 +38,6 @@ Engineering student | CSE (AI & ML) | Passionate about Open Source, AI & Problem
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shauryagrawal-11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/shauryagrawal-11/shauryagrawal-11/blob/output/github-snake-dark.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
